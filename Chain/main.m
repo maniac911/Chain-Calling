@@ -12,11 +12,14 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         
-        int result = [NSObject makeCalculation:^(Calculator *maker) {
-            maker.add(10).add(20);
-        }];
+//        int result = [NSObject makeCalculation:^(Calculator *maker) {
+//            maker.add(10).add(20);
+//        }];
+//        
+//        NSLog(@"%d",result);
         
-        NSLog(@"%d",result);
+       
+        
     }
     return 0;
 }

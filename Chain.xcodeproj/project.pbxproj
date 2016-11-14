@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		850DEE7D1DD1588700E3A6FC /* MPClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 850DEE7C1DD1588700E3A6FC /* MPClass.m */; };
 		851BA0A51DBDEF690070501E /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 851BA0A41DBDEF690070501E /* Calculator.m */; };
 		851BA0A81DBDF0F30070501E /* NSObject+Calc.m in Sources */ = {isa = PBXBuildFile; fileRef = 851BA0A71DBDF0F30070501E /* NSObject+Calc.m */; };
 		85EB5CEE1DB6257200A72EA4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 85EB5CED1DB6257200A72EA4 /* main.m */; };
@@ -26,8 +25,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		850DEE7B1DD1588700E3A6FC /* MPClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MPClass.h; sourceTree = "<group>"; };
-		850DEE7C1DD1588700E3A6FC /* MPClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MPClass.m; sourceTree = "<group>"; };
 		851BA0A31DBDEF690070501E /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
 		851BA0A41DBDEF690070501E /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
 		851BA0A61DBDF0F30070501E /* NSObject+Calc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+Calc.h"; sourceTree = "<group>"; };
@@ -71,8 +68,6 @@
 				851BA0A71DBDF0F30070501E /* NSObject+Calc.m */,
 				851BA0A31DBDEF690070501E /* Calculator.h */,
 				851BA0A41DBDEF690070501E /* Calculator.m */,
-				850DEE7B1DD1588700E3A6FC /* MPClass.h */,
-				850DEE7C1DD1588700E3A6FC /* MPClass.m */,
 			);
 			path = Chain;
 			sourceTree = "<group>";
@@ -137,7 +132,6 @@
 				85EB5CEE1DB6257200A72EA4 /* main.m in Sources */,
 				851BA0A81DBDF0F30070501E /* NSObject+Calc.m in Sources */,
 				851BA0A51DBDEF690070501E /* Calculator.m in Sources */,
-				850DEE7D1DD1588700E3A6FC /* MPClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
